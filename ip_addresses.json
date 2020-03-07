@@ -24,12 +24,12 @@
       "54.226.216.146"
     ]
   },
-	"k8s.kurl.sh": {
-		"current": [
+  "k8s.kurl.sh": {
+    "current": [
       "50.19.197.213",
       "54.236.144.143"
-		]
-	},
+    ]
+  },
   "registry-data.replicated.com": {
   }
 }
