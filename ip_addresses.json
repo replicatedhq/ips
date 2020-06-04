@@ -31,5 +31,17 @@
     ]
   },
   "registry-data.replicated.com": {
+  },
+  "proxy.replicated.com": {
+    "current": [
+      "34.234.23.38",
+      "18.207.75.177"
+    ]
+  },
+  "replicated.app": {
+    "current": [
+      "52.71.188.72",
+      "54.237.62.84"
+    ]
   }
 }
